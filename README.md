@@ -15,7 +15,7 @@
 <a href="https://github.com/rayanthoney/jm_ai_summarizer" target="_blank">
 <img src="https://img.shields.io/badge/Repo-lightgrey?style=plastic&zfor-the-badge&logo=github"/>
 </a>
-<a href="-URL DEMO GOES HERE-" target="_blank">
+<a href="https://644c15e291f96300675f545f--amazing-sundae-2a25ea.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-Website-green?style=plastic&zfor-the-badge&color=e8970c"/>
 </a>
 </p>
