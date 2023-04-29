@@ -46,7 +46,7 @@ This Artificial Intelligence URL Summarizer was created using a combination of H
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,vite,threejs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,vite,tailwind" />
   </a>
 </p>
 
