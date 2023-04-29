@@ -38,6 +38,19 @@
 
 <br>
 
+Alongside building this application, you'll also learn how to:
+
+- setup a ReactJS project using Vite
+- create a responsive, beautiful UI/UX with a nice touch of glass morphism using Tailwind CSS
+- make advanced RTK query API requests that fire on condition
+- save history using the local storage
+- handle form events and catch errors
+- implement copy to clipboard
+- write clean code
+
+<br>
+<br>
+
 ## Technologies Used:
 
 This Artificial Intelligence URL Summarizer was created using a combination of HTML5, CSS3, JavaScript, Node.js, React Toolkit, Vite, Tailwind, and Rapid API. HTML5 and CSS3 were used to create the structure and styling of the summarizer. JavaScript was used to create the logic behind the summarizer. Node.js was used to create the server-side code for the summarizer. React Toolkit was used to create the user interface for the summarizer. Vite was used to compile and bundle all of the code into a single package for deployment. Tailwind was used to provide additional styling options for the summarizer. Finally, Rapid API was used to provide access to external APIs needed by the summarizer.
