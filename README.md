@@ -40,7 +40,7 @@
 
 ## Technologies Used:
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write _something_. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+This Artificial Intelligence URL Summarizer was created using a combination of HTML5, CSS3, JavaScript, Node.js, React Toolkit, Vite, Tailwind, and Rapid API. HTML5 and CSS3 were used to create the structure and styling of the summarizer. JavaScript was used to create the logic behind the summarizer. Node.js was used to create the server-side code for the summarizer. React Toolkit was used to create the user interface for the summarizer. Vite was used to compile and bundle all of the code into a single package for deployment. Tailwind was used to provide additional styling options for the summarizer. Finally, Rapid API was used to provide access to external APIs needed by the summarizer.
 
 <br>
 
