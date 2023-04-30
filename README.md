@@ -31,7 +31,7 @@
 
 <br>
 
-- [Build and Deploy Your Own GPT AI Website with React and Turn it Into a SaaS Business (💲💲💲)](https://youtu.be/vpvtZZi5ZWk)
+- [Build and Deploy Your Own GPT AI Website with React and Turn it Into a SaaS Business (💲💲💲💲)](https://youtu.be/vpvtZZi5ZWk)
   - [GitHub Code (give it a star ⭐):](https://github.com/adrianhajdin/project_ai_summarizer)
   - [Assets, Components, Public folders:](https://drive.google.com/file/d/11DLzrWADT-GyhuHpWXobhUwqV8peC0ef/view)
   - [GitHub Gist Code:](https://gist.github.com/adrianhajdin/23b2d30e39cd2d92cfa9f436c19afe27)
